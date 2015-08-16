@@ -16,6 +16,7 @@ author:
   url:            http://apljungquist.github.io
 
 paginate:         5
+excerpt_separator: <!--more-->
 
 # Custom vars
 version:          2.0.0
