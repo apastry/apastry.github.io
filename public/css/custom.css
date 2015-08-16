@@ -1,0 +1,41 @@
+.masthead-title {
+  font-family: "Sorts Mill Goudy"
+}
+
+.logo {
+	margin-left: 0.5rem;
+}
+
+.logo-frame {
+	/* Set the diameter. Sidebar defined as 14rem */
+	width: 10rem;
+	height: 10rem;
+    /* Make it a white circle */
+    border: .2rem solid white;
+    -webkit-border-radius: 5rem;
+    		border-radius: 5rem;
+    /* Help the center the text */
+    position: relative;
+}
+
+.logo-frame > .logo-frame {
+	/* Offset the inner frame for stamped look */
+    margin-top: -.1rem;
+	margin-left: -.1rem;
+}
+
+.logo p {
+	/* Format the intials */
+	font-family: "Sorts Mill Goudy";
+	font-size: 2.5rem;
+	color: white;
+	/* Position the initials centrally */
+	margin: 0;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-right: -50%;
+	-webkit-transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+			transform: translate(-50%, -50%);
+}
