@@ -9,11 +9,11 @@ permalink:        pretty
 title:            APastry
 tagline:          'The Version Controlled Blog About Baking'
 description:      ''
-url:              http://apljungquist.github.io
+url:              http://apastry.github.io
 
 author:
   name:           'AP'
-  url:            http://apljungquist.github.io
+  url:            http://apastry.github.io
 
 paginate:         5
 excerpt_separator: <!--more-->
@@ -22,4 +22,4 @@ excerpt_separator: <!--more-->
 version:          2.0.0
 
 github:
-  repo:           https://github.com/apljungquist/apljungquist.github.io
+  repo:           https://github.com/apastry/apastry.github.io
