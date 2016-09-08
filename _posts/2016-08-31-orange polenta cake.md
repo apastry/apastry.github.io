@@ -5,6 +5,8 @@ title: Gluten Free Orange and Polenta Cake
 
 
 ![Brownie]({{site.baseurl}}/images/20160818-YU3A5662.jpg)
+<!--more-->
+
 
 Ingredients
 ----------

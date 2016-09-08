@@ -5,6 +5,8 @@ title: Purple Kale
 
 
 ![Purple Kale]({{site.baseurl}}/images/20160105-YU3A3643.jpg)
+<!--more-->
+
 
 Ingredients
 ----------
@@ -16,17 +18,6 @@ Ingredients
 
 
 
- ![a lemon]({{site.baseurl}}/images/20151214-YU3A3565.jpg)
+![a lemon]({{site.baseurl}}/images/20151214-YU3A3565.jpg)
 
 [APastry on Instagram](https://www.instagram.com/a.pastry/?hl=en)
-
-
-
-
-
-
-
-
-
-
- 

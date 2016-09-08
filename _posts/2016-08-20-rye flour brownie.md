@@ -5,6 +5,8 @@ title: Rye Flour Brownie with Burnt White Chocolate Clusters
 
 
 ![Brownie]({{site.baseurl}}/images/20160817-YU3A5550.jpg)
+<!--more-->
+
 
 Ingredients
 ----------
@@ -29,14 +31,3 @@ Bake at 170 C for 20 minutes
 
 
 [APastry on Instagram](https://www.instagram.com/a.pastry/?hl=en)
-
-
-
-
-
-
-
-
-
-
- 
