@@ -4,10 +4,13 @@ title: A Tart with Figs and White Chocolate Lime Cream
 ---
 
 
-I have bought Rococo: Mastering the art of chocolate years ago and the book has been maturing in the bookshelf like a bottle of vintage port for me to open it an inhale all the beautiful imagery of Chantal Coady, the rebellious punk girl of the chocolate world. Every single recipe is worth exploring and I have hopes I will revisit this book during the winter months when all of us is much in need of rich chocolate treats.
 
 
 ![book]({{site.baseurl}}/images/20160906-YU3A5978.jpg)
+<!--more-->
+
+I have bought Rococo: Mastering the art of chocolate years ago and the book has been maturing in the bookshelf like a bottle of vintage port for me to open it an inhale all the beautiful imagery of Chantal Coady, the rebellious punk girl of the chocolate world. Every single recipe is worth exploring and I have hopes I will revisit this book during the winter months when all of us is much in need of rich chocolate treats.
+
 
 Ingredients
 ----------
